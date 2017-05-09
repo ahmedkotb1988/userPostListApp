@@ -1,6 +1,0 @@
-framework module Pods_userPostListAppTests {
-  umbrella header "Pods-userPostListAppTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
